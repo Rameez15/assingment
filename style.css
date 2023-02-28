@@ -28,9 +28,9 @@
      justify-content: center;
  }
 
-.content8{
-    width: 1000px;
-}
+ .content8 {
+     width: 1000px;
+ }
 
  .content7 {
      width: 1000px;
@@ -137,7 +137,7 @@
  .child5 {
      display: flex;
      justify-content: center;
-     width: 905px;
+     width: 788px;
      margin-top: 21px;
  }
 
@@ -151,35 +151,40 @@
  .child2 {
      height: 350px;
      width: 350px;
-     margin-left: -115px;
+     margin-left: -124px;
      background-color: #373739;
      border-radius: 100%;
  }
 
  .child4 {
-     height: 355px;
-     width: 300px;
-     margin-top: -25px;
+    height: 355px;
+    width: 300px;
+    margin-top: -10px;
+    margin-left: 169px;
  }
 
  .child1 {
-     padding-top: 35px;
+     padding-top: 40px;
      padding-right: 5px;
-     margin-left: -4px;
+     margin-left: -9px;
+     margin-top: 10px;
  }
 
  .font1 {
      font-size: 2em;
      color: #999696;
      height: 40px;
+     margin-bottom: 55px;
  }
 
  .font2 {
-     font-size: 2.5em;
-     width: max-content;
-     color: white;
-     height: 60px;
-     font-weight: bold;
+    margin: -10px 0px -100px -443px;
+    font-size: 2.5em;
+    width: max-content;
+    color: white;
+    height: 60px;
+    font-weight: bold;
+    padding-top: 108px;
  }
 
  .font3 {
@@ -202,11 +207,11 @@
  }
 
  .child3 {
-     margin-top: 5px;
-     margin-left: -130px;
-     width: 190px;
-     padding: 5px;
-     height: 195px;
+    margin-top: 26px;
+    margin-left: -60px;
+    width: 190px;
+    padding: 11px;
+    height: 195px;
  }
 
  .d2 {
@@ -246,9 +251,9 @@
      padding: 7px 10px;
  }
 
- .d5 a{
-    text-decoration: none;
-    color: #eab223;
+ .d5 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .d6 {
@@ -262,9 +267,9 @@
      padding: 6.7px 8px;
  }
 
- .d6 a{
-    text-decoration: none;
-    color: #eab223;
+ .d6 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .d7 {
@@ -278,9 +283,9 @@
      padding: 7px 8px;
  }
 
- .d7 a{
-    text-decoration: none;
-    color: #eab223;
+ .d7 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .d8 {
@@ -294,9 +299,9 @@
      padding: 7px 9px;
  }
 
- .d8 a{
-    text-decoration: none;
-    color: #eab223;
+ .d8 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .content1 {
@@ -491,9 +496,9 @@
      margin-top: 38px;
  }
 
- .e4 a{
-    text-decoration: none;
-    color: #eab223;
+ .e4 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .fc4 {
@@ -526,9 +531,9 @@
      margin-top: 38px;
  }
 
- .e5 a{
-    text-decoration: none;
-    color: #eab223;
+ .e5 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .fc5 {
@@ -561,9 +566,9 @@
      margin-top: 38px;
  }
 
- .e6 a{
-    text-decoration: none;
-    color: #eab223;
+ .e6 a {
+     text-decoration: none;
+     color: #eab223;
  }
 
  .fc6 {
@@ -574,10 +579,10 @@
  }
 
  .p6 {
-    background-color: #373739;
-    width: 254px;
-    height: 195px;
-    padding: 24px 12px;
+     background-color: #373739;
+     width: 254px;
+     height: 195px;
+     padding: 24px 12px;
  }
 
  .p6 h3 {
@@ -634,10 +639,10 @@
  }
 
  .p8 {
-    background-color: #373739;
-    width: 275px;
-    height: 195px;
-    padding: 24px 8px
+     background-color: #373739;
+     width: 275px;
+     height: 195px;
+     padding: 24px 8px
  }
 
  .p8 h3 {
